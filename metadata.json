@@ -1,0 +1,6 @@
+{
+  "name": "مساجد دزفول",
+  "description": "سامانهٔ شهری و نقشهٔ زندهٔ مساجد، حسینیه‌ها و اماکن مذهبی شهر دزفول با اطلاعات رویدادها، زمان‌بندی و دسته‌بندی محلات",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
